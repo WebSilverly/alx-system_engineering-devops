@@ -1,1 +1,1 @@
-writing my first script
+writing my first bash script
